@@ -2,7 +2,7 @@
 
 A simple data science project to predict employee salaries using a linear regression model.
 
-## Table of Contents
+## Table of Contents :
 
 - [About](#about)
 - [Getting Started](#getting-started)
@@ -35,6 +35,7 @@ Make sure you have the following installed:
     cd employee-salary-prediction
 
 **Install dependencies:**
+   
     pip install -r requirements.txt
 
 ## Usage
