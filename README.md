@@ -2,22 +2,22 @@
 
 A simple data science project to predict employee salaries using a linear regression model.
 
-## About
+## About :
 
 This project demonstrates how to perform employee salary prediction using a linear regression model. The dataset is randomly generated for illustration purposes.
 
-## Getting Started
+## Getting Started :
 
 Follow these instructions to run the project locally.
 
-## Prerequisites
+## Prerequisites :
 
 Make sure you have the following installed:
 
 - Python 3.x
 - Required Python libraries: pandas, numpy, scikit-learn, matplotlib
 
-## Installing
+## Installing :
 
 1. Clone the repository:
 
@@ -31,11 +31,11 @@ Make sure you have the following installed:
    
     pip install -r requirements.txt
 
-## Usage
+## Usage :
 Run the main script to create a random dataset, train a linear regression model, and visualize the results.
     python main.py
 
-## Contributing
+## Contributing :
 If you'd like to contribute to this project, please follow these guidelines:
 
 Open an issue to discuss proposed changes or improvements.
