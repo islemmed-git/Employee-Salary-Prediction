@@ -2,13 +2,6 @@
 
 A simple data science project to predict employee salaries using a linear regression model.
 
-## Table of Contents :
-
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
 ## About
 
 This project demonstrates how to perform employee salary prediction using a linear regression model. The dataset is randomly generated for illustration purposes.
