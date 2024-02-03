@@ -29,7 +29,7 @@ Make sure you have the following installed:
 
 **Install dependencies:**
 
-    pip install -r requirements.txt
+     pip install -r requirements.txt
 
 ## Usage :
 Run the main script to create a random dataset, train a linear regression model, and visualize the results.
