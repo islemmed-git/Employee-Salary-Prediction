@@ -22,14 +22,14 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/employee-salary-prediction.git
+  git clone https://github.com/your-username/employee-salary-prediction.git
 
 **Navigate to the project directory:**
     cd employee-salary-prediction
 
 **Install dependencies:**
-   
-    pip install -r requirements.txt
+
+pip install -r requirements.txt
 
 ## Usage :
 Run the main script to create a random dataset, train a linear regression model, and visualize the results.
